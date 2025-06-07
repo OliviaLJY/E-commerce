@@ -1,22 +1,22 @@
-# E-commerce Web Application
+# 🛍️ E-commerce Dashboard Application
 
-This is a full-stack e-commerce web application that allows users to browse, post, and interact with products and listings. The platform supports features such as file uploads, upvotes, and user engagement around travel or product content.
+This is a modern e-commerce management dashboard built with React, offering comprehensive features for product management, order processing, and data analytics.
 
-## 🌐 Tech Stack
+## ✨ Key Features
 
-- **Frontend**: React.js, Bootstrap
-- **Backend**: SpringBoot, MyBatis
-- **Database**: MySQL, Redis
-- **DevOps**: AWS (EC2, RDS, S3, etc.)
+- **Dashboard**: Visualizes sales data and monitors key business metrics
+- **Product Management**: Supports full CRUD operations, drag-and-drop sorting, and user reviews
+- **Order Processing**: Manage order statuses, perform batch operations, and export data
+- **Shopping Cart**: Real-time cart updates and seamless checkout flow
 
-## 🚀 Features
+## 🛠️ Tech Stack
 
-- User registration and authentication
-- Product/travel post creation and sharing
-- Upvote and interaction system
-- File uploads (e.g. ticket screenshots, travel docs)
-- Admin panel for managing content
-- Responsive UI for desktop and mobile
+- **Frontend Framework**: React 18
+- **UI Component Library**: Shadcn/ui with Tailwind CSS
+- **Icon Library**: Lucide React
+- **Data Visualization**: Recharts
+- **State Management**: React Query
+- **Drag-and-Drop**: React DnD
 
 ## 🛠️ Environment Setup
 
