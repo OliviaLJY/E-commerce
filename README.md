@@ -11,7 +11,7 @@ This is a modern e-commerce management dashboard built with React, offering comp
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework**: React 18
+- **Frontend Framework**: React
 - **UI Component Library**: Shadcn/ui with Tailwind CSS
 - **Icon Library**: Lucide React
 - **Data Visualization**: Recharts
