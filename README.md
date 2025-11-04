@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Dashboard Application
+#  E-commerce Dashboard Application
 
 This is a modern e-commerce management dashboard built with React, offering comprehensive features for product management, order processing, and data analytics.
 
