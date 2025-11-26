@@ -2,14 +2,14 @@
 
 This is a modern e-commerce management dashboard built with React, offering comprehensive features for product management, order processing, and data analytics.
 
-## ✨ Key Features
+## Key Features
 
 - **Dashboard**: Visualizes sales data and monitors key business metrics
 - **Product Management**: Supports full CRUD operations, drag-and-drop sorting, and user reviews
 - **Order Processing**: Manage order statuses, perform batch operations, and export data
 - **Shopping Cart**: Real-time cart updates and seamless checkout flow
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Framework**: React
 - **UI Component Library**: Shadcn/ui with Tailwind CSS
@@ -18,7 +18,7 @@ This is a modern e-commerce management dashboard built with React, offering comp
 - **State Management**: React Query
 - **Drag-and-Drop**: React DnD
 
-## 🛠️ Environment Setup
+## Environment Setup
 
 ## Install NVM
 ``` 
