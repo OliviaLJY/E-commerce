@@ -7,7 +7,7 @@ This is a modern e-commerce management dashboard built with React.js, offering c
 - **Dashboard**: Visualizes sales data and monitors key business metrics
 - **Product Management**: Supports full CRUD operations, drag-and-drop sorting, and user reviews
 - **Order Processing**: Manage order statuses, perform batch operations, and export data
-- **Shopping Cart**: Real-time cart updates and seamless checkout flow
+- **Shopping Cart**: Real-time cart updates and checkout flow
 
 ## Tech Stack
 
